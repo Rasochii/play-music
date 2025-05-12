@@ -22,9 +22,12 @@
    ```bash
    git clone https://github.com/seu-usuario/play-music.git
 2. Navegue até o diretório do projeto:
-  cd play-music
+   ```bash
+   cd play-music
 3. Instale as dependências do Flutter:
+   ```bash
    cd play-music
 4. Execute o aplicativo:
+   ```bash
    flutter run
  
