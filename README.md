@@ -26,7 +26,7 @@
    cd play-music
 3. Instale as dependências do Flutter:
    ```bash
-   cd play-music
+   flutter pub get
 4. Execute o aplicativo:
    ```bash
    flutter run
