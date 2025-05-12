@@ -31,3 +31,7 @@
    ```bash
    flutter run
  
+![Prévia do Player](assets/play-music-1.jpg)
+![Prévia do Player](assets/play-music-2.jpg)
+![Prévia do Player](assets/play-music-3.jpg)
+![Prévia do Player](assets/play-music-4.jpg)
